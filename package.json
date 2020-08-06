@@ -1,0 +1,20 @@
+{
+  "name": "twitter-analyser",
+  "version": "1.0.0",
+  "description": "this app for crawl in Twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alifrd",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7",
+    "pug": "^2.0.3",
+    "twit": "^2.2.11",
+    "ws": "^6.1.2"
+  }
+}
